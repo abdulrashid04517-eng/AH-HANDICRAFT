@@ -4,6 +4,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	height: 100vh;
 
 }
 
@@ -13,7 +14,6 @@ body{
 	display: flex;
 	justify-content: center;
 	align-self: center;
-	margin-top: 150px;
 	
 	
     
